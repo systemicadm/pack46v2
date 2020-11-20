@@ -7,7 +7,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
 [Author]
     name = "Pack 46"
-    bio = "Boy Scouts of America Cub Scouts"
+    bio = "BSA Cub Scouts"
 
 [params]
 
