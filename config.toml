@@ -1,0 +1,30 @@
+baseURL = "http://pack46.org/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Cub Scout Pack 46"
+theme = "stip"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[Author]
+    name = "Pack 46"
+    bio = "Boy Scouts of America Cub Scouts"
+
+[params]
+
+[params.colors]
+    background = "#000000"
+    circle = "#3942ba"
+    foreground = "#c7d0fc"
+    hover = "#cd6cf7"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:membership@pack46.org"
+
+    [[params.links]]
+        icon = "facebook"
+        title = "Facebook"
+        url = "https://www.facebook.com/bsapack46"
+      
